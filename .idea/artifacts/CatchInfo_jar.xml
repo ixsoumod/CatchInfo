@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CatchInfo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CatchInfo_jar</output-path>
+    <root id="archive" name="CatchInfo.jar">
+      <element id="module-output" name="CatchInfo" />
+    </root>
+  </artifact>
+</component>

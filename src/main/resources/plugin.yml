@@ -1,0 +1,9 @@
+name: CatchInfo
+version: '1.0-SNAPSHOT'
+main: fr.ixsou.catchinfo.CatchInfo
+api-version: '1.21'
+authors: [Ixsou_mod]
+commands:
+  ip:
+    description: Récupère l'IP d'un joueur.
+    usage: /ip <nom_du_joueur>
